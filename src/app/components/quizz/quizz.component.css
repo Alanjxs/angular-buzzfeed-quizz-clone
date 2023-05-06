@@ -22,7 +22,7 @@
   align-items: center;
   border:1px solid #4224d9;
   border-radius: 8px;
-  background-color: #644ED2;
+  background-color: #1c38a1;
   width: 100%;
   height: 200px;
   font-size: 20px;
@@ -72,4 +72,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.logo {
+  width: 30rem;
+  height: 15rem;
 }
